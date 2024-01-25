@@ -7,3 +7,6 @@
 
 ### file  --> crego-task-react-ts
     -> using typescript
+
+### hosted links 
+    -> https://crego-hosting.vercel.app/
